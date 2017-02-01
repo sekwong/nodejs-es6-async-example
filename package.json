@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-es6-example",
+  "engines": {
+    "node": "^6.x",
+    "npm": "^3.x"
+  },
+  "version": "1.0.0",
+  "description": "Using Mocha Chai Sinon to test Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekwong/nodejs-es6-async-example"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekwong/nodejs-es6-example/issues"
+  },
+  "homepage": "https://github.com/sekwong/nodejs-es6-example#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "eslint": "^3.14.1"
+  }
+}
