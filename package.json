@@ -8,7 +8,7 @@
   "description": "Using Mocha Chai Sinon to test Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/_mocha"
+    "test": "./node_modules/.bin/_mocha ./test --require ./specs/helpers/chai.js --reporter spec"
   },
   "repository": {
     "type": "git",
