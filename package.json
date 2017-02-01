@@ -17,15 +17,14 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sekwong/nodejs-es6-example/issues"
+    "url": "https://github.com/sekwong/nodejs-es6-async-example/issues"
   },
-  "homepage": "https://github.com/sekwong/nodejs-es6-example#readme",
-  "dependencies": {
-    
-  },
+  "homepage": "https://github.com/sekwong/nodejs-es6-async-example#readme",
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
+    "eslint": "^3.14.1",
     "mocha": "^3.2.0",
-    "eslint": "^3.14.1"
+    "sinon": "^1.17.7"
   }
 }
